@@ -1,0 +1,14 @@
+terraform.tfvars
+.DS_Store
+.terraform/
+access-key-ID.txt
+access-secret-key.txt
+build-sub-domain.py
+cloud-engineer.code-workspace
+rds-endpoint.txt
+sns.tf.backup
+templates/.DS_Store
+terraform.tfstate
+terraform.tfstate.backup
+test-output-terraform.txt
+
